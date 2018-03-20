@@ -116,7 +116,7 @@ XData elections
 <regions>
 		<region>
 			<regionName>район Богородское</regionName>
-			<regionId>2114</regionId>
+			<regionId>2013</regionId>
 			<votersIncludedInVotersList>63441</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>50300</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -143,7 +143,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Вешняки</regionName>
-			<regionId>2115</regionId>
+			<regionId>2016</regionId>
 			<votersIncludedInVotersList>77013</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>61500</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -170,7 +170,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Восточное Измайлово</regionName>
-			<regionId>2116</regionId>
+			<regionId>2020</regionId>
 			<votersIncludedInVotersList>44793</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>40900</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -197,7 +197,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Гольяново</regionName>
-			<regionId>2118</regionId>
+			<regionId>2025</regionId>
 			<votersIncludedInVotersList>106888</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>97000</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -224,7 +224,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Ивановское</regionName>
-			<regionId>2119</regionId>
+			<regionId>2034</regionId>
 			<votersIncludedInVotersList>80524</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>63300</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -251,7 +251,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Измайлово</regionName>
-			<regionId>2120</regionId>
+			<regionId>2035</regionId>
 			<votersIncludedInVotersList>63560</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>59750</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -278,7 +278,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Косино-Ухтомский</regionName>
-			<regionId>2121</regionId>
+			<regionId>2039</regionId>
 			<votersIncludedInVotersList>38849</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>27500</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -305,7 +305,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Метрогородок</regionName>
-			<regionId>2122</regionId>
+			<regionId>2057</regionId>
 			<votersIncludedInVotersList>24175</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>22000</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -332,7 +332,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Новокосино</regionName>
-			<regionId>2124</regionId>
+			<regionId>2069</regionId>
 			<votersIncludedInVotersList>63730</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>56700</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -359,7 +359,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Новогиреево</regionName>
-			<regionId>2123</regionId>
+			<regionId>2068</regionId>
 			<votersIncludedInVotersList>57620</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>46200</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -386,7 +386,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Перово</regionName>
-			<regionId>2125</regionId>
+			<regionId>2077</regionId>
 			<votersIncludedInVotersList>82182</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>72400</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -413,7 +413,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Восточный</regionName>
-			<regionId>2117</regionId>
+			<regionId>2021</regionId>
 			<votersIncludedInVotersList>7812</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>7700</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -440,7 +440,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Преображенское</regionName>
-			<regionId>2126</regionId>
+			<regionId>2080</regionId>
 			<votersIncludedInVotersList>51881</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>40300</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -467,7 +467,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Северное Измайлово</regionName>
-			<regionId>2127</regionId>
+			<regionId>2090</regionId>
 			<votersIncludedInVotersList>56667</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>48309</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -494,7 +494,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Соколиная гора</regionName>
-			<regionId>2128</regionId>
+			<regionId>2096</regionId>
 			<votersIncludedInVotersList>57280</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>48700</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -521,7 +521,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Сокольники</regionName>
-			<regionId>2129</regionId>
+			<regionId>2097</regionId>
 			<votersIncludedInVotersList>38661</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>29920</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -548,7 +548,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Внуково</regionName>
-			<regionId>2027</regionId>
+			<regionId>2017</regionId>
 			<votersIncludedInVotersList>15682</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>13100</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -575,7 +575,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Дорогомилово</regionName>
-			<regionId>2028</regionId>
+			<regionId>2029</regionId>
 			<votersIncludedInVotersList>39820</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>32110</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -602,7 +602,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Крылатское</regionName>
-			<regionId>2029</regionId>
+			<regionId>2042</regionId>
 			<votersIncludedInVotersList>55167</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>48500</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -629,7 +629,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Кунцево</regionName>
-			<regionId>2030</regionId>
+			<regionId>2045</regionId>
 			<votersIncludedInVotersList>92235</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>84510</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -656,7 +656,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Можайский район</regionName>
-			<regionId>2031</regionId>
+			<regionId>2060</regionId>
 			<votersIncludedInVotersList>87695</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>75500</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -683,7 +683,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Ново-Переделкино</regionName>
-			<regionId>2032</regionId>
+			<regionId>2070</regionId>
 			<votersIncludedInVotersList>73093</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>65500</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -710,7 +710,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Очаково-Матвеевское</regionName>
-			<regionId>2033</regionId>
+			<regionId>2076</regionId>
 			<votersIncludedInVotersList>67812</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>62550</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -737,7 +737,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Проспект Вернадского</regionName>
-			<regionId>2034</regionId>
+			<regionId>2082</regionId>
 			<votersIncludedInVotersList>39047</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>31200</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -764,7 +764,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Раменки</regionName>
-			<regionId>2035</regionId>
+			<regionId>2083</regionId>
 			<votersIncludedInVotersList>82842</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>70400</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -791,7 +791,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Солнцево</regionName>
-			<regionId>2036</regionId>
+			<regionId>2098</regionId>
 			<votersIncludedInVotersList>67846</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>58600</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -818,7 +818,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Тропарево-Никулино</regionName>
-			<regionId>2037</regionId>
+			<regionId>2106</regionId>
 			<votersIncludedInVotersList>68761</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>64600</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -845,7 +845,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Филевский парк</regionName>
-			<regionId>2038</regionId>
+			<regionId>2107</regionId>
 			<votersIncludedInVotersList>48521</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>43500</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -872,7 +872,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Фили-Давыдково</regionName>
-			<regionId>2039</regionId>
+			<regionId>2108</regionId>
 			<votersIncludedInVotersList>66183</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>55800</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -899,7 +899,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Силино</regionName>
-			<regionId>2133</regionId>
+			<regionId>2094</regionId>
 			<votersIncludedInVotersList>30727</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>25050</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -926,7 +926,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Крюково</regionName>
-			<regionId>2130</regionId>
+			<regionId>2043</regionId>
 			<votersIncludedInVotersList>65985</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>63500</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -953,7 +953,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Старое Крюково</regionName>
-			<regionId>2134</regionId>
+			<regionId>2099</regionId>
 			<votersIncludedInVotersList>21821</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>17800</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -980,7 +980,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Матушкино</regionName>
-			<regionId>2131</regionId>
+			<regionId>2056</regionId>
 			<votersIncludedInVotersList>29843</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>24700</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1007,7 +1007,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Аэропорт</regionName>
-			<regionId>2011</regionId>
+			<regionId>2005</regionId>
 			<votersIncludedInVotersList>46444</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>43120</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1034,7 +1034,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Беговой</regionName>
-			<regionId>2012</regionId>
+			<regionId>2008</regionId>
 			<votersIncludedInVotersList>26736</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>24400</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1061,7 +1061,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Бескудниковский район</regionName>
-			<regionId>2013</regionId>
+			<regionId>2009</regionId>
 			<votersIncludedInVotersList>50214</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>49700</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1088,7 +1088,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Савелки</regionName>
-			<regionId>2132</regionId>
+			<regionId>2086</regionId>
 			<votersIncludedInVotersList>25750</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>19600</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1115,7 +1115,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Войковский район</regionName>
-			<regionId>2014</regionId>
+			<regionId>2018</regionId>
 			<votersIncludedInVotersList>44233</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>41400</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1142,7 +1142,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Восточное Дегунино</regionName>
-			<regionId>2015</regionId>
+			<regionId>2019</regionId>
 			<votersIncludedInVotersList>59950</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>59300</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1169,7 +1169,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Головинский район</regionName>
-			<regionId>2016</regionId>
+			<regionId>2024</regionId>
 			<votersIncludedInVotersList>65298</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>63400</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1196,7 +1196,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Дмитровский район</regionName>
-			<regionId>2017</regionId>
+			<regionId>2027</regionId>
 			<votersIncludedInVotersList>54489</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>51800</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1223,7 +1223,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Западное Дегунино</regionName>
-			<regionId>2018</regionId>
+			<regionId>2031</regionId>
 			<votersIncludedInVotersList>53730</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>48603</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1250,7 +1250,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Коптево</regionName>
-			<regionId>2019</regionId>
+			<regionId>2038</regionId>
 			<votersIncludedInVotersList>61864</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>55200</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1277,7 +1277,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Левобережный район</regionName>
-			<regionId>2020</regionId>
+			<regionId>2047</regionId>
 			<votersIncludedInVotersList>32984</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>27050</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1304,7 +1304,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Молжаниновский район</regionName>
-			<regionId>2021</regionId>
+			<regionId>2061</regionId>
 			<votersIncludedInVotersList>2182</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>2500</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1331,7 +1331,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Савеловский район</regionName>
-			<regionId>2022</regionId>
+			<regionId>2087</regionId>
 			<votersIncludedInVotersList>38876</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>33550</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1358,7 +1358,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Сокол</regionName>
-			<regionId>2023</regionId>
+			<regionId>2095</regionId>
 			<votersIncludedInVotersList>32730</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>29350</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1385,7 +1385,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Тимирязевский район</regionName>
-			<regionId>2024</regionId>
+			<regionId>2105</regionId>
 			<votersIncludedInVotersList>54012</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>48300</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1412,7 +1412,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Ховрино</regionName>
-			<regionId>2025</regionId>
+			<regionId>2110</regionId>
 			<votersIncludedInVotersList>56450</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>47200</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1439,7 +1439,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Хорошевский район</regionName>
-			<regionId>2026</regionId>
+			<regionId>2112</regionId>
 			<votersIncludedInVotersList>43868</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>36400</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1466,7 +1466,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Алексеевский район</regionName>
-			<regionId>2050</regionId>
+			<regionId>2002</regionId>
 			<votersIncludedInVotersList>43471</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>38600</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1493,7 +1493,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Алтуфьевский район</regionName>
-			<regionId>2051</regionId>
+			<regionId>2003</regionId>
 			<votersIncludedInVotersList>34833</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>25850</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1520,7 +1520,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Бабушкинский район</regionName>
-			<regionId>2052</regionId>
+			<regionId>2006</regionId>
 			<votersIncludedInVotersList>59583</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>47900</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1547,7 +1547,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Бибирево</regionName>
-			<regionId>2053</regionId>
+			<regionId>2010</regionId>
 			<votersIncludedInVotersList>104616</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>73500</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1574,7 +1574,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Бутырский район</regionName>
-			<regionId>2054</regionId>
+			<regionId>2015</regionId>
 			<votersIncludedInVotersList>39232</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>33700</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1601,7 +1601,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Лианозово</regionName>
-			<regionId>2055</regionId>
+			<regionId>2049</regionId>
 			<votersIncludedInVotersList>55866</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>50862</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1628,7 +1628,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Лосиноостровский район</regionName>
-			<regionId>2056</regionId>
+			<regionId>2051</regionId>
 			<votersIncludedInVotersList>55867</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>42900</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1655,7 +1655,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Марфино</regionName>
-			<regionId>2057</regionId>
+			<regionId>2053</regionId>
 			<votersIncludedInVotersList>21328</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>19000</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1682,7 +1682,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Марьина Роща</regionName>
-			<regionId>2058</regionId>
+			<regionId>2054</regionId>
 			<votersIncludedInVotersList>38447</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>35500</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1709,7 +1709,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Останкинский район</regionName>
-			<regionId>2059</regionId>
+			<regionId>2074</regionId>
 			<votersIncludedInVotersList>36001</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>31400</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1736,7 +1736,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Отрадное</regionName>
-			<regionId>2060</regionId>
+			<regionId>2075</regionId>
 			<votersIncludedInVotersList>122290</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>117950</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1763,7 +1763,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Ростокино</regionName>
-			<regionId>2061</regionId>
+			<regionId>2084</regionId>
 			<votersIncludedInVotersList>24577</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>22300</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1790,7 +1790,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Свиблово</regionName>
-			<regionId>2062</regionId>
+			<regionId>2088</regionId>
 			<votersIncludedInVotersList>34478</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>28000</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1817,7 +1817,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Северное Медведково</regionName>
-			<regionId>2063</regionId>
+			<regionId>2091</regionId>
 			<votersIncludedInVotersList>74569</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>60000</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1844,7 +1844,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Северный</regionName>
-			<regionId>2064</regionId>
+			<regionId>2093</regionId>
 			<votersIncludedInVotersList>17356</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>14700</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1871,7 +1871,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Южное Медведково</regionName>
-			<regionId>2065</regionId>
+			<regionId>2120</regionId>
 			<votersIncludedInVotersList>51346</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>40500</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1898,7 +1898,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Ярославский район</regionName>
-			<regionId>2066</regionId>
+			<regionId>2124</regionId>
 			<votersIncludedInVotersList>56276</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>49300</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1925,7 +1925,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Куркино</regionName>
-			<regionId>2067</regionId>
+			<regionId>2046</regionId>
 			<votersIncludedInVotersList>16492</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>12850</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1952,7 +1952,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Митино</regionName>
-			<regionId>2068</regionId>
+			<regionId>2059</regionId>
 			<votersIncludedInVotersList>111664</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>94400</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -1979,7 +1979,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Покровское-Стрешнево</regionName>
-			<regionId>2069</regionId>
+			<regionId>2079</regionId>
 			<votersIncludedInVotersList>36002</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>29100</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2006,7 +2006,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Северное Тушино</regionName>
-			<regionId>2070</regionId>
+			<regionId>2092</regionId>
 			<votersIncludedInVotersList>97414</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>83820</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2033,7 +2033,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Строгино</regionName>
-			<regionId>2071</regionId>
+			<regionId>2100</regionId>
 			<votersIncludedInVotersList>96934</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>77550</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2060,7 +2060,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Хорошево-Мневники</regionName>
-			<regionId>2072</regionId>
+			<regionId>2111</regionId>
 			<votersIncludedInVotersList>101626</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>84200</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2087,7 +2087,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Щукино</regionName>
-			<regionId>2073</regionId>
+			<regionId>2118</regionId>
 			<votersIncludedInVotersList>68577</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>63050</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2114,7 +2114,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Южное Тушино</regionName>
-			<regionId>2074</regionId>
+			<regionId>2121</regionId>
 			<votersIncludedInVotersList>66254</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>57300</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2141,7 +2141,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Арбат</regionName>
-			<regionId>2040</regionId>
+			<regionId>2004</regionId>
 			<votersIncludedInVotersList>16217</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>12300</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2168,7 +2168,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Басманный район</regionName>
-			<regionId>2041</regionId>
+			<regionId>2007</regionId>
 			<votersIncludedInVotersList>65515</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>51980</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2195,7 +2195,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Замоскворечье</regionName>
-			<regionId>2042</regionId>
+			<regionId>2030</regionId>
 			<votersIncludedInVotersList>30260</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>25790</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2222,7 +2222,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Красносельский район</regionName>
-			<regionId>2043</regionId>
+			<regionId>2041</regionId>
 			<votersIncludedInVotersList>27712</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>22000</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2249,7 +2249,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Мещанский район</regionName>
-			<regionId>2044</regionId>
+			<regionId>2058</regionId>
 			<votersIncludedInVotersList>38844</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>31600</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2276,7 +2276,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Пресненский район</regionName>
-			<regionId>2045</regionId>
+			<regionId>2081</regionId>
 			<votersIncludedInVotersList>80402</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>76200</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2303,7 +2303,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Таганский район</regionName>
-			<regionId>2046</regionId>
+			<regionId>2101</regionId>
 			<votersIncludedInVotersList>79297</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>66050</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2330,7 +2330,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Тверской район</regionName>
-			<regionId>2047</regionId>
+			<regionId>2102</regionId>
 			<votersIncludedInVotersList>53801</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>42180</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2357,7 +2357,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Хамовники</regionName>
-			<regionId>2048</regionId>
+			<regionId>2109</regionId>
 			<votersIncludedInVotersList>62695</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>45912</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2384,7 +2384,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Якиманка</regionName>
-			<regionId>2049</regionId>
+			<regionId>2123</regionId>
 			<votersIncludedInVotersList>15907</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>13350</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2411,7 +2411,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Выхино-Жулебино</regionName>
-			<regionId>2102</regionId>
+			<regionId>2022</regionId>
 			<votersIncludedInVotersList>133468</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>107250</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2438,7 +2438,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Капотня</regionName>
-			<regionId>2103</regionId>
+			<regionId>2036</regionId>
 			<votersIncludedInVotersList>18027</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>14570</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2465,7 +2465,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Кузьминки</regionName>
-			<regionId>2104</regionId>
+			<regionId>2044</regionId>
 			<votersIncludedInVotersList>83545</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>59350</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2492,7 +2492,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Лефортово</regionName>
-			<regionId>2105</regionId>
+			<regionId>2048</regionId>
 			<votersIncludedInVotersList>55178</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>48340</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2519,7 +2519,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Люблино</regionName>
-			<regionId>2106</regionId>
+			<regionId>2052</regionId>
 			<votersIncludedInVotersList>110325</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>80790</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2546,7 +2546,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Марьино</regionName>
-			<regionId>2107</regionId>
+			<regionId>2055</regionId>
 			<votersIncludedInVotersList>166560</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>163800</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2573,7 +2573,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Некрасовка</regionName>
-			<regionId>2108</regionId>
+			<regionId>2066</regionId>
 			<votersIncludedInVotersList>10575</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>8370</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2600,7 +2600,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Нижегородский район</regionName>
-			<regionId>2109</regionId>
+			<regionId>2067</regionId>
 			<votersIncludedInVotersList>25434</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>20700</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2627,7 +2627,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Печатники</regionName>
-			<regionId>2110</regionId>
+			<regionId>2078</regionId>
 			<votersIncludedInVotersList>56437</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>49100</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2654,7 +2654,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Рязанский район</regionName>
-			<regionId>2111</regionId>
+			<regionId>2085</regionId>
 			<votersIncludedInVotersList>62059</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>49900</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2681,7 +2681,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Текстильщики</regionName>
-			<regionId>2112</regionId>
+			<regionId>2103</regionId>
 			<votersIncludedInVotersList>60674</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>54675</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2708,7 +2708,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Южнопортовый район</regionName>
-			<regionId>2113</regionId>
+			<regionId>2122</regionId>
 			<votersIncludedInVotersList>45034</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>36650</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2735,7 +2735,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Академический район</regionName>
-			<regionId>2075</regionId>
+			<regionId>2001</regionId>
 			<votersIncludedInVotersList>64816</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>45300</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2762,7 +2762,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Гагаринский район</regionName>
-			<regionId>2076</regionId>
+			<regionId>2023</regionId>
 			<votersIncludedInVotersList>48595</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>34350</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2789,7 +2789,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Зюзино</regionName>
-			<regionId>2077</regionId>
+			<regionId>2032</regionId>
 			<votersIncludedInVotersList>74319</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>65580</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2816,7 +2816,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Коньково</regionName>
-			<regionId>2078</regionId>
+			<regionId>2037</regionId>
 			<votersIncludedInVotersList>102773</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>93800</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2843,7 +2843,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Котловка</regionName>
-			<regionId>2079</regionId>
+			<regionId>2040</regionId>
 			<votersIncludedInVotersList>41177</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>30600</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2870,7 +2870,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Ломоносовский район</regionName>
-			<regionId>2080</regionId>
+			<regionId>2050</regionId>
 			<votersIncludedInVotersList>52770</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>47000</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2897,7 +2897,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Обручевский район</regionName>
-			<regionId>2081</regionId>
+			<regionId>2071</regionId>
 			<votersIncludedInVotersList>46871</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>36900</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2924,7 +2924,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Северное Бутово</regionName>
-			<regionId>2082</regionId>
+			<regionId>2089</regionId>
 			<votersIncludedInVotersList>58644</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>53500</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2951,7 +2951,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Теплый Стан</regionName>
-			<regionId>2083</regionId>
+			<regionId>2104</regionId>
 			<votersIncludedInVotersList>85530</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>82300</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -2978,7 +2978,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Черемушки</regionName>
-			<regionId>2084</regionId>
+			<regionId>2114</regionId>
 			<votersIncludedInVotersList>64338</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>57700</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3005,7 +3005,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Южное Бутово</regionName>
-			<regionId>2135</regionId>
+			<regionId>2119</regionId>
 			<votersIncludedInVotersList>127890</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>115000</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3032,7 +3032,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Ясенево</regionName>
-			<regionId>2085</regionId>
+			<regionId>2125</regionId>
 			<votersIncludedInVotersList>120364</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>113300</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3059,7 +3059,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Бирюлево Восточное</regionName>
-			<regionId>2086</regionId>
+			<regionId>2011</regionId>
 			<votersIncludedInVotersList>87269</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>78300</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3086,7 +3086,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Бирюлево Западное</regionName>
-			<regionId>2087</regionId>
+			<regionId>2012</regionId>
 			<votersIncludedInVotersList>51782</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>46700</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3113,7 +3113,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Братеево</regionName>
-			<regionId>2088</regionId>
+			<regionId>2014</regionId>
 			<votersIncludedInVotersList>62531</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>51100</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3140,7 +3140,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Даниловский район</regionName>
-			<regionId>2089</regionId>
+			<regionId>2026</regionId>
 			<votersIncludedInVotersList>54945</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>46600</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3167,7 +3167,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Донской район</regionName>
-			<regionId>2090</regionId>
+			<regionId>2028</regionId>
 			<votersIncludedInVotersList>30482</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>27000</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3194,7 +3194,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Зябликово</regionName>
-			<regionId>2091</regionId>
+			<regionId>2033</regionId>
 			<votersIncludedInVotersList>77513</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>74950</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3221,7 +3221,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Москворечье-Сабурово</regionName>
-			<regionId>2092</regionId>
+			<regionId>2062</regionId>
 			<votersIncludedInVotersList>48657</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>43300</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3248,7 +3248,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Нагатино-Садовники</regionName>
-			<regionId>2093</regionId>
+			<regionId>2063</regionId>
 			<votersIncludedInVotersList>48101</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>39110</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3275,7 +3275,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Нагатинский затон</regionName>
-			<regionId>2094</regionId>
+			<regionId>2064</regionId>
 			<votersIncludedInVotersList>68552</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>59400</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3302,7 +3302,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Нагорный район</regionName>
-			<regionId>2095</regionId>
+			<regionId>2065</regionId>
 			<votersIncludedInVotersList>45890</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>44800</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3329,7 +3329,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Орехово-Борисово Северное</regionName>
-			<regionId>2096</regionId>
+			<regionId>2072</regionId>
 			<votersIncludedInVotersList>75301</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>71910</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3356,7 +3356,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Орехово-Борисово Южное</regionName>
-			<regionId>2097</regionId>
+			<regionId>2073</regionId>
 			<votersIncludedInVotersList>89071</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>77500</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3383,7 +3383,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Царицыно</regionName>
-			<regionId>2098</regionId>
+			<regionId>2113</regionId>
 			<votersIncludedInVotersList>76584</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>68530</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3410,7 +3410,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Чертаново Северное</regionName>
-			<regionId>2099</regionId>
+			<regionId>2115</regionId>
 			<votersIncludedInVotersList>63617</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>58800</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3437,7 +3437,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Чертаново Центральное</regionName>
-			<regionId>2100</regionId>
+			<regionId>2116</regionId>
 			<votersIncludedInVotersList>68690</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>60173</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3464,7 +3464,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>район Чертаново Южное</regionName>
-			<regionId>2101</regionId>
+			<regionId>2117</regionId>
 			<votersIncludedInVotersList>91766</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>82100</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3499,150 +3499,81 @@ Storage Default
 <Value>%%CLASSNAME</Value>
 </Value>
 <Value name="2">
-<Value>Число избирателей, включенных в список избирателей</Value>
-</Value>
-<Value name="3">
-<Value>Число избирательных бюллетеней, полученных участковой избирательной комиссией</Value>
-</Value>
-<Value name="4">
-<Value>Число избирательных бюллетеней, выданных избирателям, проголосовавшим досрочно</Value>
-</Value>
-<Value name="5">
-<Value>Число избирательных бюллетеней, выданных в помещении для голосования в день голосования</Value>
-</Value>
-<Value name="6">
-<Value>Число избирательных бюллетеней, выданных вне помещения для голосования в день голосования</Value>
-</Value>
-<Value name="7">
-<Value>Число погашенных избирательных бюллетеней</Value>
-</Value>
-<Value name="8">
-<Value>Число избирательных бюллетеней в переносных ящиках для голосования</Value>
-</Value>
-<Value name="9">
-<Value>Число бюллетеней в стационарных ящиках для голосования</Value>
-</Value>
-<Value name="10">
-<Value>Число недействительных избирательных бюллетеней</Value>
-</Value>
-<Value name="11">
-<Value>Число действительных избирательных бюллетеней</Value>
-</Value>
-<Value name="12">
-<Value>Число полученных открепительных удостоверений</Value>
-</Value>
-<Value name="13">
-<Value>Число открепительных удостоверений, выданных избирателям на избирательном участке</Value>
-</Value>
-<Value name="14">
-<Value>Число избирателей, проголосовавших по открепительным удостоверениям</Value>
-</Value>
-<Value name="15">
-<Value>Число неиспользованных открепительных удостоверений</Value>
-</Value>
-<Value name="16">
-<Value>Число открепительных удостоверений, выданных избирателям ТИК</Value>
-</Value>
-<Value name="17">
-<Value>Число утраченных открепительных удостоверений</Value>
-</Value>
-<Value name="18">
-<Value>Число утраченных избирательных бюллетеней</Value>
-</Value>
-<Value name="19">
-<Value>Число избирательных бюллетеней, не учтенных при получении</Value>
-</Value>
-<Value name="20">
-<Value>Жириновский Владимир Вольфович</Value>
-</Value>
-<Value name="21">
-<Value>Зюганов Геннадий Андреевич</Value>
-</Value>
-<Value name="22">
-<Value>Миронов Сергей Михайлович</Value>
-</Value>
-<Value name="23">
-<Value>Прохоров Михаил Дмитриевич</Value>
-</Value>
-<Value name="24">
-<Value>Путин Владимир Владимирович</Value>
-</Value>
-<Value name="25">
 <Value>region</Value>
 </Value>
-<Value name="26">
+<Value name="3">
 <Value>regionName</Value>
 </Value>
-<Value name="27">
+<Value name="4">
 <Value>regionId</Value>
 </Value>
-<Value name="28">
+<Value name="5">
 <Value>votersIncludedInVotersList</Value>
 </Value>
-<Value name="29">
+<Value name="6">
 <Value>ballotsReceivedByPrecinctElectionCommission</Value>
 </Value>
-<Value name="30">
+<Value name="7">
 <Value>ballotsIssuedToVotersWhoVotedEarly</Value>
 </Value>
-<Value name="31">
+<Value name="8">
 <Value>ballotsIssuedInPollingStationOnElectionDay</Value>
 </Value>
-<Value name="32">
+<Value name="9">
 <Value>ballotsIssuedOutsidePollingStationOnElectionDay</Value>
 </Value>
-<Value name="33">
+<Value name="10">
 <Value>canceledBallots</Value>
 </Value>
-<Value name="34">
+<Value name="11">
 <Value>ballotsInMobileBallotBoxes</Value>
 </Value>
-<Value name="35">
+<Value name="12">
 <Value>ballotsInStationaryBallotBoxes</Value>
 </Value>
-<Value name="36">
+<Value name="13">
 <Value>invalidBallots</Value>
 </Value>
-<Value name="37">
+<Value name="14">
 <Value>validBallots</Value>
 </Value>
-<Value name="38">
+<Value name="15">
 <Value>absenteeBallotsReceived</Value>
 </Value>
-<Value name="39">
+<Value name="16">
 <Value>absenteeBallotsIssuedToVotersAtPollingStation</Value>
 </Value>
-<Value name="40">
+<Value name="17">
 <Value>votedByAbsenteeBallots</Value>
 </Value>
-<Value name="41">
+<Value name="18">
 <Value>unusedAbsenteeBallots</Value>
 </Value>
-<Value name="42">
+<Value name="19">
 <Value>absenteeBallotsIssuedToTECVoters</Value>
 </Value>
-<Value name="43">
+<Value name="20">
 <Value>absenteeBallotsLost</Value>
 </Value>
-<Value name="44">
+<Value name="21">
 <Value>lostBallots</Value>
 </Value>
-<Value name="45">
+<Value name="22">
 <Value>ballotsNotRecorded</Value>
 </Value>
-<Value name="46">
+<Value name="23">
 <Value>Zhirinovsky</Value>
 </Value>
-<Value name="47">
+<Value name="24">
 <Value>Zyuganov</Value>
 </Value>
-<Value name="48">
+<Value name="25">
 <Value>Mironov</Value>
 </Value>
-<Value name="49">
+<Value name="26">
 <Value>Prokhorov</Value>
 </Value>
-<Value name="50">
+<Value name="27">
 <Value>Putin</Value>
 </Value>
 </Data>

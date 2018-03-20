@@ -1,11 +1,11 @@
 /// 
-Class map.ElectionsCube Extends %DeepSee.CubeDefinition [ DependsOn = map.MoscowElections2012, ProcedureBlock ]
+Class map.Elections2012Cube Extends %DeepSee.CubeDefinition [ DependsOn = map.MoscowElections2012, ProcedureBlock ]
 {
 
 /// Cube definition from Architect.
 XData Cube [ XMLNamespace = "http://www.intersystems.com/deepsee" ]
 {
-<cube xmlns="http://www.intersystems.com/deepsee" name="ElectionsCube" displayName="ElectionsCube" disabled="false" abstract="false" sourceClass="map.MoscowElections2012" countMeasureName="%COUNT" bucketSize="8" bitmapChunkInMemory="false" precompute="0" disableListingGroups="false">
+<cube xmlns="http://www.intersystems.com/deepsee" name="Elections2012Cube" displayName="Elections2012Cube" disabled="false" abstract="false" sourceClass="map.MoscowElections2012" countMeasureName="%COUNT" bucketSize="8" bitmapChunkInMemory="false" precompute="0" disableListingGroups="false">
   <dimension name="Territory" disabled="false" hasAll="false" allCaption="All region" allDisplayName="region" type="data" calendar="gregorian" iKnowType="entity" hidden="false" showHierarchies="default">
     <hierarchy name="H1" disabled="false" hidden="false">
       <level name="Region" displayName="Административный округ" disabled="false" sourceProperty="region.parent.name" list="false" useDisplayValue="true" useAsFilter="true" hidden="false">
