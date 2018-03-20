@@ -8,5 +8,9 @@ For import classes and data use next steps:
 ```
 d ##class(sc.code).workdir("YourPathToRepository\src")
 w ##class(sc.code).import(,"rkd") && ##class(sc.code).import("*.cls","c")
+w ##class(map.MoscowRegion).populateRegions()
+w ##class(map.MoscowElections2018).populateElectionsData()
+w ##class(DeepSee.Utils).%BuildCube("Elections2018Cube)
+
 ```
 3. Copy moscowElectionsMap.js from `\src\csp` into your web application's location
