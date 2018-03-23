@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Export generator="Cache" version="25" zv="Cache for UNIX (Apple Mac OS X for x86-64) 2017.1.2 (Build 217U)" ts="2018-03-20 23:37:23">
+<Export generator="Cache" version="25" zv="Cache for UNIX (Apple Mac OS X for x86-64) 2017.1.2 (Build 217U)" ts="2018-03-23 14:49:13">
 <Global>
 <Node><Sub>^DeepSee.TermList</Sub>
 <Node><Sub>MOSCOWELECTIONS</Sub>
@@ -44,9 +44,9 @@
 </Node>
 <Node><Sub>MOSCOWELECTIONS2018</Sub>
 <Node><Sub>data</Sub>
-<Node><Sub>1. Всего избирателей</Sub>
+<Node><Sub>1. Явка</Sub>
 <Node><Sub>VALUE</Sub>
-<Data><![CDATA[{[Measures].[Mironov]\,[Measures].[Prokhorov]\,[Measures].[Putin]\,[Measures].[Zhirinovsky]\,[Measures].[Zyuganov]\,[MEASURES].[COLORRGBVALUE]\,[CUSTOM].[TooltipValue]\,[CUSTOM].[PopupValue]}]]></Data>
+<Data><![CDATA[{[Measures].[Baburin]\,[Measures].[Grudinin]\,[Measures].[Zhirinovsky]\,[Measures].[Putin]\,[Measures].[Sobchak]\,[Measures].[Suraykin]\,[Measures].[Titov]\,[Measures].[Yavlinsky]\,[MEASURES].[COLORRGBVALUE]\,[CUSTOM].[TooltipValue]\,[CUSTOM].[PopupValue]}]]></Data>
 </Node>
 </Node>
 <Node><Sub>2. Путин</Sub>
@@ -91,10 +91,30 @@
 </Node>
 </Node>
 <Node><Sub>modDate</Sub>
-<Data>2018-03-20 17:26:19</Data>
+<Data>2018-03-22 18:37:24</Data>
 </Node>
 <Node><Sub>name</Sub>
 <Data>MoscowElections2018</Data>
+</Node>
+</Node>
+<Node><Sub>MOSCOWELECTIONS2018REGIONSORAOS</Sub>
+<Node><Sub>data</Sub>
+<Node><Sub>1. Административные округа</Sub>
+<Node><Sub>VALUE</Sub>
+<Data>[Territory].[H1].[Region].Members</Data>
+</Node>
+</Node>
+<Node><Sub>2. Регионы</Sub>
+<Node><Sub>VALUE</Sub>
+<Data>[Territory].[H1].[Subregion].Members</Data>
+</Node>
+</Node>
+</Node>
+<Node><Sub>modDate</Sub>
+<Data>2018-03-22 17:03:43</Data>
+</Node>
+<Node><Sub>name</Sub>
+<Data>MoscowElections2018RegionsOrAOs</Data>
 </Node>
 </Node>
 </Node>

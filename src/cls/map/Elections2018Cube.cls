@@ -48,6 +48,8 @@ XData Cube [ XMLNamespace = "http://www.intersystems.com/deepsee" ]
   </measure>
   <measure name="validBallots" displayName="Число действительных избирательных бюллетеней" disabled="false" sourceProperty="validBallots" aggregate="SUM" type="number" hidden="false" searchable="false">
   </measure>
+  <measure name="attandance" displayName="Явка" disabled="false" sourceExpression="%source.ballotsIssuedToVotersWhoVotedEarly + %source.ballotsIssuedInPollingStationOnElectionDay + %source.ballotsIssuedOutsidePollingStationOnElectionDay" aggregate="SUM" type="integer" hidden="false" searchable="false">
+  </measure>
 </cube>
 }
 

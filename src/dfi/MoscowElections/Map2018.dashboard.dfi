@@ -4,6 +4,9 @@
     <control name="" action="chooseColumnSpec" target="" targetProperty="MoscowElections2018.termlist" location="widget" type="auto" controlClass="" label="Критерий окраски" title="" value="" text="" readOnly="false" valueList="" displayList="" activeWhen="">
       <valueRequired>false</valueRequired>
     </control>
+    <control name="" action="chooseRowSpec" target="" targetProperty="MoscowElections2018RegionsOrAOs.termlist" location="widget" type="auto" controlClass="" label="Уровень деления" title="" value="" text="" readOnly="false" valueList="" displayList="" activeWhen="">
+      <valueRequired>false</valueRequired>
+    </control>
   </widget>
   <widget name="tableWidget" type="pivot" subtype="pivot" subtypeClass="lineChart" title="" dataSource="" dataLink="moscowElectionsMap" drillDownDataSource="" width="200" height="200" sidebarContent="" showSidebar="false" sidebarWidth="" maximized="false" homeRowL="0" homeColL="4" colSpanL="4" rowSpanL="4" showToolbar="true" showToolbarBottomBorder="true" showToolbarOnlyWhenMaximized="false" colorToolbar="#F0F0F0" opacityToolbar="1" backgroundColor="#F0F0F0" opacity="1" theme="" dataColorList="">
     <control name="" action="setColumnSpec" target="lineChartWidget, tableWidget" targetProperty="{[Measures].[Baburin],[Measures].[Grudinin],[Measures].[Zhirinovsky],[Measures].[Putin],[Measures].[Sobchak],[Measures].[Suraykin],[Measures].[Titov],[Measures].[Yavlinsky]}" location="widget" type="hidden" controlClass="" label="Колонки" title="" value="" text="" readOnly="false" valueList="" displayList="" activeWhen="">

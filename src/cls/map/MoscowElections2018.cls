@@ -1260,7 +1260,7 @@ XData elections
 		<region>
 			<regionName>район Ховрино</regionName>
 			<regionId>2110</regionId>
-			<votersIncludedInVotersList>58307</votersIncludedInVotersList>
+			<votersIncludedInVotersList>58581</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>48000</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
 			<ballotsIssuedInPollingStationOnElectionDay>33518</ballotsIssuedInPollingStationOnElectionDay>
@@ -2244,26 +2244,26 @@ XData elections
 		<region>
 			<regionName>район Люблино</regionName>
 			<regionId>2052</regionId>
-			<votersIncludedInVotersList>109953</votersIncludedInVotersList>
-			<ballotsReceivedByPrecinctElectionCommission>89500</ballotsReceivedByPrecinctElectionCommission>
+			<votersIncludedInVotersList>105792</votersIncludedInVotersList>
+			<ballotsReceivedByPrecinctElectionCommission>86100</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
-			<ballotsIssuedInPollingStationOnElectionDay>64020</ballotsIssuedInPollingStationOnElectionDay>
-			<ballotsIssuedOutsidePollingStationOnElectionDay>2281</ballotsIssuedOutsidePollingStationOnElectionDay>
-			<canceledBallots>23198</canceledBallots>
-			<ballotsInMobileBallotBoxes>2281</ballotsInMobileBallotBoxes>
-			<ballotsInStationaryBallotBoxes>63985</ballotsInStationaryBallotBoxes>
-			<invalidBallots>885</invalidBallots>
-			<validBallots>65381</validBallots>
+			<ballotsIssuedInPollingStationOnElectionDay>61413</ballotsIssuedInPollingStationOnElectionDay>
+			<ballotsIssuedOutsidePollingStationOnElectionDay>2237</ballotsIssuedOutsidePollingStationOnElectionDay>
+			<canceledBallots>22449</canceledBallots>
+			<ballotsInMobileBallotBoxes>2237</ballotsInMobileBallotBoxes>
+			<ballotsInStationaryBallotBoxes>61378</ballotsInStationaryBallotBoxes>
+			<invalidBallots>876</invalidBallots>
+			<validBallots>62739</validBallots>
 			<lostBallots>1</lostBallots>
 			<ballotsNotRecorded>0</ballotsNotRecorded>
-			<Baburin>531</Baburin>
-			<Grudinin>7743</Grudinin>
-			<Zhirinovsky>3552</Zhirinovsky>
-			<Putin>49107</Putin>
-			<Sobchak>1913</Sobchak>
-			<Suraykin>408</Suraykin>
-			<Titov>715</Titov>
-			<Yavlinsky>1412</Yavlinsky>
+			<Baburin>518</Baburin>
+			<Grudinin>7491</Grudinin>
+			<Zhirinovsky>3439</Zhirinovsky>
+			<Putin>47051</Putin>
+			<Sobchak>1834</Sobchak>
+			<Suraykin>389</Suraykin>
+			<Titov>678</Titov>
+			<Yavlinsky>1339</Yavlinsky>
 		</region>
 		<region>
 			<regionName>район Марьино</regionName>
@@ -2940,26 +2940,26 @@ XData elections
 		<region>
 			<regionName>Нагорный район</regionName>
 			<regionId>2065</regionId>
-			<votersIncludedInVotersList>45991</votersIncludedInVotersList>
-			<ballotsReceivedByPrecinctElectionCommission>42800</ballotsReceivedByPrecinctElectionCommission>
+			<votersIncludedInVotersList>43757</votersIncludedInVotersList>
+			<ballotsReceivedByPrecinctElectionCommission>40600</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
-			<ballotsIssuedInPollingStationOnElectionDay>29396</ballotsIssuedInPollingStationOnElectionDay>
-			<ballotsIssuedOutsidePollingStationOnElectionDay>931</ballotsIssuedOutsidePollingStationOnElectionDay>
-			<canceledBallots>12473</canceledBallots>
-			<ballotsInMobileBallotBoxes>930</ballotsInMobileBallotBoxes>
-			<ballotsInStationaryBallotBoxes>29319</ballotsInStationaryBallotBoxes>
-			<invalidBallots>402</invalidBallots>
-			<validBallots>29847</validBallots>
+			<ballotsIssuedInPollingStationOnElectionDay>27310</ballotsIssuedInPollingStationOnElectionDay>
+			<ballotsIssuedOutsidePollingStationOnElectionDay>887</ballotsIssuedOutsidePollingStationOnElectionDay>
+			<canceledBallots>12403</canceledBallots>
+			<ballotsInMobileBallotBoxes>886</ballotsInMobileBallotBoxes>
+			<ballotsInStationaryBallotBoxes>27233</ballotsInStationaryBallotBoxes>
+			<invalidBallots>381</invalidBallots>
+			<validBallots>27738</validBallots>
 			<lostBallots>0</lostBallots>
 			<ballotsNotRecorded>0</ballotsNotRecorded>
-			<Baburin>271</Baburin>
-			<Grudinin>3656</Grudinin>
-			<Zhirinovsky>1472</Zhirinovsky>
-			<Putin>21684</Putin>
-			<Sobchak>1176</Sobchak>
-			<Suraykin>168</Suraykin>
-			<Titov>487</Titov>
-			<Yavlinsky>933</Yavlinsky>
+			<Baburin>265</Baburin>
+			<Grudinin>3466</Grudinin>
+			<Zhirinovsky>1302</Zhirinovsky>
+			<Putin>20039</Putin>
+			<Sobchak>1128</Sobchak>
+			<Suraykin>163</Suraykin>
+			<Titov>482</Titov>
+			<Yavlinsky>893</Yavlinsky>
 		</region>
 		<region>
 			<regionName>район Орехово-Борисово Северное</regionName>
