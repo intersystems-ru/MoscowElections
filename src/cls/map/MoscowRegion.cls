@@ -1311,6 +1311,22 @@ XData regions
 			<id>2146</id>
 			<parentId>1012</parentId>
 		</region>
+		<region>
+			<name>Троицкий административный округ</name>
+			<parentName>Троицкий административный округ</parentName>
+			<area>1084.34</area>
+			<population>122522</population>
+			<parentId>1011</parentId>
+			<id>10110</id>
+		</region>
+		<region>
+			<name>Новомосковский административный округ (без поселения Сосенское)</name>
+			<parentName>Новомосковский административный округ</parentName>
+			<area>294.29</area>
+			<population>201086</population>
+			<parentId>1012</parentId>
+			<id>10120</id>
+		</region>
 	</regions>
 }
 

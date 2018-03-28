@@ -5,7 +5,7 @@ Class map.MoscowElections2018 Extends (%Persistent, %XML.Adaptor)
 Property region As map.MoscowRegion;
 
 /// Имя региона
-Property regionName As %String;
+Property regionName As %String(MAXLEN = 250);
 
 /// ID региона
 Property regionId As %Integer;
@@ -84,7 +84,7 @@ ClassMethod populateElectionsData() As %Status
 	
 	do reader.Correlate("region", ..%ClassName(1))
 	
-	#dim obj As map.MoscowElections2012
+	#dim obj As map.MoscowElections2018
 	while reader.Next(.obj, .sc)
 	{
 		if $$$ISERR(sc) quit
@@ -3106,8 +3106,8 @@ XData elections
 			<Yavlinsky>1290</Yavlinsky>
 		</region>
 		<region>
-			<regionName>Новомосковский административный округ</regionName>
-			<regionId>1012</regionId>
+			<regionName>Новомосковский административный округ (без поселения Сосенское)</regionName>
+			<regionId>10120</regionId>
 			<votersIncludedInVotersList>104294</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>82000</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
@@ -3131,7 +3131,7 @@ XData elections
 		</region>
 		<region>
 			<regionName>Троицкий административный округ</regionName>
-			<regionId>1011</regionId>
+			<regionId>10110</regionId>
 			<votersIncludedInVotersList>95064</votersIncludedInVotersList>
 			<ballotsReceivedByPrecinctElectionCommission>83400</ballotsReceivedByPrecinctElectionCommission>
 			<ballotsIssuedToVotersWhoVotedEarly>0</ballotsIssuedToVotersWhoVotedEarly>
