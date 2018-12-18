@@ -97,6 +97,61 @@
 <Data>MoscowElections2018</Data>
 </Node>
 </Node>
+<Node><Sub>MOSCOWELECTIONS2018ENG</Sub>
+<Node><Sub>data</Sub>
+<Node><Sub>1. Attandance</Sub>
+<Node><Sub>VALUE</Sub>
+<Data><![CDATA[{[Measures].[Baburin]\,[Measures].[Grudinin]\,[Measures].[Zhirinovsky]\,[Measures].[Putin]\,[Measures].[Sobchak]\,[Measures].[Suraykin]\,[Measures].[Titov]\,[Measures].[Yavlinsky]\,[MEASURES].[COLORRGBVALUE]\,[CUSTOM].[TooltipValue]\,[CUSTOM].[PopupValue]}]]></Data>
+</Node>
+</Node>
+<Node><Sub>2. Putin</Sub>
+<Node><Sub>VALUE</Sub>
+<Data><![CDATA[{[Measures].[Putin]\,%LABEL([Measures].[Putin]/[Measures].[votersIncludedInVotersList]\,"ColorRGBValue")\,[CUSTOM].[TooltipValue]\,%LABEL("<b>" + [Territory].[H1].[Region].CurrentMember.Properties("name") + "</b><br/>Population: " + [Measures].[Population] + " ppl.<br/>Number of voters: " + [Measures].[votersIncludedInVotersList] + " ppl.<br/>Voted for Putin: " + [Measures].[Putin] + "ppl."\,"PopupValue")}]]></Data>
+</Node>
+</Node>
+<Node><Sub>3. Grudinin</Sub>
+<Node><Sub>VALUE</Sub>
+<Data><![CDATA[{[Measures].[Grudinin]\,%LABEL([Measures].[Grudinin]/[Measures].[votersIncludedInVotersList]\,"ColorRGBValue")\,[CUSTOM].[TooltipValue]\,%LABEL("<b>" + [Territory].[H1].[Region].CurrentMember.Properties("name") + "</b><br/>Population: " + [Measures].[Population] + " ppl.<br/>Number of voters: " + [Measures].[votersIncludedInVotersList] + " ppl.<br/>Voted for Grudinin: " + [Measures].[Grudinin] + "ppl."\,"PopupValue")}]]></Data>
+</Node>
+</Node>
+<Node><Sub>4. Zhirinovsky</Sub>
+<Node><Sub>VALUE</Sub>
+<Data><![CDATA[{[Measures].[Zhirinovsky]\,%LABEL([Measures].[Zhirinovsky]/[Measures].[votersIncludedInVotersList]\,"ColorRGBValue")\,[CUSTOM].[TooltipValue]\,%LABEL("<b>" + [Territory].[H1].[Region].CurrentMember.Properties("name") + "</b><br/>Population: " + [Measures].[Population] + " ppl.<br/>Number of voters: " + [Measures].[votersIncludedInVotersList] + " ppl.<br/>Voted for Zhirinovsky: " + [Measures].[Zhirinovsky] + "ppl."\,"PopupValue")}]]></Data>
+</Node>
+</Node>
+<Node><Sub>5. Sobchak</Sub>
+<Node><Sub>VALUE</Sub>
+<Data><![CDATA[{[Measures].[Sobchak]\,%LABEL([Measures].[Sobchak]/[Measures].[votersIncludedInVotersList]\,"ColorRGBValue")\,[CUSTOM].[TooltipValue]\,%LABEL("<b>" + [Territory].[H1].[Region].CurrentMember.Properties("name") + "</b><br/>Population: " + [Measures].[Population] + " ppl.<br/>Number of voters: " + [Measures].[votersIncludedInVotersList] + " ppl.<br/>Voted for Sobchak: " + [Measures].[Sobchak] + "ppl."\,"PopupValue")}]]></Data>
+</Node>
+</Node>
+<Node><Sub>6. Yavlinsky</Sub>
+<Node><Sub>VALUE</Sub>
+<Data><![CDATA[{[Measures].[Yavlinsky]\,%LABEL([Measures].[Yavlinsky]/[Measures].[votersIncludedInVotersList]\,"ColorRGBValue")\,[CUSTOM].[TooltipValue]\,%LABEL("<b>" + [Territory].[H1].[Region].CurrentMember.Properties("name") + "</b><br/>Population: " + [Measures].[Population] + " ppl.<br/>Number of voters: " + [Measures].[votersIncludedInVotersList] + " ppl.<br/>Voted for Yavlinsky: " + [Measures].[Yavlinsky] + "ppl."\,"PopupValue")}]]></Data>
+</Node>
+</Node>
+<Node><Sub>7. Titov</Sub>
+<Node><Sub>VALUE</Sub>
+<Data><![CDATA[{[Measures].[Titov]\,%LABEL([Measures].[Titov]/[Measures].[votersIncludedInVotersList]\,"ColorRGBValue")\,[CUSTOM].[TooltipValue]\,%LABEL("<b>" + [Territory].[H1].[Region].CurrentMember.Properties("name") + "</b><br/>Population: " + [Measures].[Population] + " ppl.<br/>Number of voters: " + [Measures].[votersIncludedInVotersList] + " ppl.<br/>Voted for Titov: " + [Measures].[Titov] + "ppl."\,"PopupValue")}]]></Data>
+</Node>
+</Node>
+<Node><Sub>8. Baburin</Sub>
+<Node><Sub>VALUE</Sub>
+<Data><![CDATA[{[Measures].[Baburin]\,%LABEL([Measures].[Baburin]/[Measures].[votersIncludedInVotersList]\,"ColorRGBValue")\,[CUSTOM].[TooltipValue]\,%LABEL("<b>" + [Territory].[H1].[Region].CurrentMember.Properties("name") + "</b><br/>Population: " + [Measures].[Population] + " ppl.<br/>Number of voters: " + [Measures].[votersIncludedInVotersList] + " ppl.<br/>Voted for Baburin: " + [Measures].[Baburin] + "ppl."\,"PopupValue")}]]></Data>
+</Node>
+</Node>
+<Node><Sub>9. Suraykin</Sub>
+<Node><Sub>VALUE</Sub>
+<Data><![CDATA[{[Measures].[Suraykin]\,%LABEL([Measures].[Suraykin]/[Measures].[votersIncludedInVotersList]\,"ColorRGBValue")\,[CUSTOM].[TooltipValue]\,%LABEL("<b>" + [Territory].[H1].[Region].CurrentMember.Properties("name") + "</b><br/>Population: " + [Measures].[Population] + " ppl.<br/>Number of voters: " + [Measures].[votersIncludedInVotersList] + " ppl.<br/>Voted for Suraykin: " + [Measures].[Suraykin] + "ppl."\,"PopupValue")}]]></Data>
+</Node>
+</Node>
+</Node>
+<Node><Sub>modDate</Sub>
+<Data>2018-03-22 18:37:24</Data>
+</Node>
+<Node><Sub>name</Sub>
+<Data>MoscowElections2018</Data>
+</Node>
+</Node>
 <Node><Sub>MOSCOWELECTIONS2018REGIONSORAOS</Sub>
 <Node><Sub>data</Sub>
 <Node><Sub>1. Административные округа</Sub>
